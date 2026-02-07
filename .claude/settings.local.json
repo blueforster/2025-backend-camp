@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sudo lsof:*)",
+      "Bash(sudo netstat:*)",
+      "Bash(ss:*)",
+      "Bash(docker ps:*)"
+    ]
+  }
+}
